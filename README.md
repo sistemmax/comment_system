@@ -8,7 +8,7 @@ Form submitting goes via Ajax and does basic client side validation.
 Comments  append to the bottom of the comment thread.
 
 
-//Creaste Database
+//Create Database
 
 CREATE TABLE IF NOT EXISTS `comments` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
